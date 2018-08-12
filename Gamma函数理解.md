@@ -4,5 +4,5 @@
 |---|---:|:---|
 |123|213|123|
 
-$ Gamma(n) = (n-1)!quadforall ninmathbb N $
+$$\Gamma(n) = (n-1)!$$
 
